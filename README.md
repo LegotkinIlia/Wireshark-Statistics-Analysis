@@ -31,6 +31,44 @@ This sections provide summarized traffic statistics for IPv4 and IPv6 packets ca
 
 <img width="1401" height="875" alt="I41" src="https://github.com/user-attachments/assets/a019229d-ea6e-4dde-ba5c-aa53f76c4dc3" />
 
+For example, we can view the most commonly used IPv4 address:
+
+<img width="1401" height="875" alt="IP4" src="https://github.com/user-attachments/assets/595f644d-cb66-447c-b741-3861b3cc7d36" />
+
+### 5.DNS
+
+This option breaks down all DNS packets from the capture file and helps analysts view the findings in a tree view based on packet counters and percentages of the DNS protocol.
+
+<img width="1401" height="875" alt="DNS1" src="https://github.com/user-attachments/assets/08f88198-f06a-48db-8f5e-016e67b5bf6b" />
+
+For example, we can view min service request-response time of the DNS packets:
+
+<img width="1401" height="875" alt="DNS2" src="https://github.com/user-attachments/assets/2f822fa3-13a0-4cbe-bb0c-201325eea5f4" />
+
+### 6.HTTP
+
+This option breaks down all HTTP packets from the capture file:
+
+<img width="1401" height="875" alt="HTTP" src="https://github.com/user-attachments/assets/aa5d7685-0b99-4e7b-bcd9-57a0816c5f06" />
+
+For example, we can view  the number of HTTP Requests accomplished by specific IP address
+
+<img width="1401" height="875" alt="HTTP2" src="https://github.com/user-attachments/assets/0cbae6e4-d765-41ab-9ca2-e9b5d671980c" />
+
+### Skills learned:
+
+- Navigating the Statistics section in Wireshark
+
+- Analyzing IPv4 traffic patterns and identifying the most active addresses
+
+
+
+
+
+
+
+
+
 
 
 
